@@ -1,0 +1,2 @@
+nanoQC -o statreports/ ONT_T014.isoseq_flnc.Transcript.fastq
+NanoStat --fastq Other.fq --outdir statreports -n Other.stat
